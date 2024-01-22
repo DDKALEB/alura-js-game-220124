@@ -1,1 +1,1 @@
-# alura-js-game-220124
+Arqui Jogo de adivinhação atualizado com com fundo movel !!
